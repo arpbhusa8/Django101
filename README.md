@@ -1,2 +1,2 @@
 # Django101
-Leanring Django from scratch
+Learning Django from scratch
